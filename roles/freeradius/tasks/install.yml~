@@ -7,7 +7,7 @@
   package: 
     name: freeradius-ldap
     state: latest
-  when: ldap.enabled == True
+
 - name: Install libselinux-python and freeradius-utils on RedHat
   package: 
     name: "{{ item }}"

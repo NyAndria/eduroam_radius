@@ -1,0 +1,10 @@
+radius ansible_host=niry.ubuntunet.net
+
+[idp]
+radius
+
+[idp:vars]
+ansible_user=NyAndria
+
+[mg_irenala:children]
+idp
