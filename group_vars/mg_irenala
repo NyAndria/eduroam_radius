@@ -1,10 +1,9 @@
 realms: 
-  - example.tld
-  - example.net
+  - irenala.edu.mg
 
-organisation: Example University
-city: Testville
-country_code: MW
+organisation: iRENALA NREN
+city: Antananarivo
+country_code: MG
 
 
 ### User Stores ###
