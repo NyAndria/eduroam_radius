@@ -1,10 +1,9 @@
 realms: 
-  - example.tld
-  - example.net
+  - aait.edu.et
 
-organisation: Example University
-city: Testville
-country_code: MW
+organisation: Addis Ababa Institute of Technolgy
+city: Addis Ababa
+country_code: ET
 
 
 ### User Stores ###
@@ -56,6 +55,7 @@ flrs:
 ### NRO Switchboard, eg. eduroam.ubuntunet.net ###
 
 switchboard:
+  secret: MySecret
   name: Switchboard
   ip4: 168.253.217.136
 
